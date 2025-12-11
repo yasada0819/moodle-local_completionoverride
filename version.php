@@ -5,4 +5,4 @@ $plugin->component = 'local_completionoverride';
 $plugin->version = 2025120900;
 $plugin->requires = 2022041900; // Moodle 4.0+
 $plugin->maturity = MATURITY_STABLE;
-$plugin->release = '1.0';
+$plugin->release = '0.5';
