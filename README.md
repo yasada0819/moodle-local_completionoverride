@@ -5,3 +5,9 @@
 本プラグインでは、学生の氏名またはIDナンバー（ prefix_user.idnumber ) をキーに検索・絞り込みしたうえで活動完了の上書き処理が可能となります。
 
 - 現状、日本語版のみです
+
+使用方法
+
+/local/completionoverride/index.php?courseid=XXXXX
+
+にアクセスして使用してください。
